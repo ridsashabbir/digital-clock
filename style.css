@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=DynaPuff&family=Varela+Round&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'DynaPuff', cursive;
+    background-color: black;
+}
+
+.container{
+    color: white;
+    font-size: 34px;
+}
