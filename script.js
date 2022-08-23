@@ -8,5 +8,6 @@ displayTime = () => {
     document.getElementById('hours').innerHTML = hrs;
     document.getElementById('minutes').innerHTML = min;
     document.getElementById('seconds').innerHTML = sec;
-    document.getElementById('sessions').innerHTML = session;
 };
+
+setInterval(displayTime, 1000);
